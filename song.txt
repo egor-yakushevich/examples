@@ -1,3 +1,5 @@
 I believe 
 I can fly 
-I believe i can such my self!
+I believe i can such my self! 
+Hello from Java 
+Edit two lines
