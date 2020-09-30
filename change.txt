@@ -1,0 +1,29 @@
+[33mcommit 7d8bc325f7a173dfd8404885eeed81eac91ded0f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Egor Yakushevich <egor_pinsk@mail.ru>
+Date:   Tue Sep 29 18:52:25 2020 +0300
+
+    add two more lines on the song
+
+[33mcommit b0d2c8ead54718b5d6633968a3d9c795a27ee502[m
+Author: egor-yakushevich <71758930+egor-yakushevich@users.noreply.github.com>
+Date:   Tue Sep 29 18:42:13 2020 +0300
+
+    Update song.txt
+
+[33mcommit d97bf4159eefde62b3a8a0e976a979bab5469795[m
+Author: Egor Yakushevich <egor_pinsk@mail.ru>
+Date:   Tue Sep 29 18:38:41 2020 +0300
+
+    add first 2 lines in the song
+
+[33mcommit b83e2983ec4fd11dde9dbd03581caa207e5aa90e[m
+Author: egor-yakushevich <71758930+egor-yakushevich@users.noreply.github.com>
+Date:   Wed Sep 23 12:31:07 2020 +0300
+
+    Update README.md
+
+[33mcommit 9eeab33eb8f3c5497e5106ddccbc4df4eb8123d8[m[33m ([m[1;31morigin/one[m[33m)[m
+Author: egor-yakushevich <71758930+egor-yakushevich@users.noreply.github.com>
+Date:   Wed Sep 23 12:05:09 2020 +0300
+
+    Initial commit
