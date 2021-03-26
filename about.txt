@@ -16,3 +16,9 @@ Good time's the devil
 I'm a force of heaven
 
 Content this!
+
+Hello from Java 
+Edit two lines
+ 213123213213
+Good Bye!
+I am teacher! 
